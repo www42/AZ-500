@@ -6,7 +6,6 @@
 
 [AZ-500 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
 
----
 
 ## How to
 
@@ -14,13 +13,14 @@
 
 [Redeem my Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
----
 
 ## Useful links
 
 [Microsoft Certification Poster](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+
+[Channel 9 Shows (now in Microsoft Learn)](https://docs.microsoft.com/en-us/shows/browse)
 
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
@@ -30,9 +30,10 @@
 
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
+[Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
+
 [Scott Hanselman](https://www.hanselman.com/)
 
----
 
 ##  Your Trainer
 #### Thomas Jäkel
