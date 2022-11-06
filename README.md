@@ -3,7 +3,15 @@
 
 ## AZ-500 at Microsoft Learn
 
-[AZ-500 Exam](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
+[Learning Path AZ-500: Manage Identity and Access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)
+
+[Learning Path AZ-500: Implement platform protection](AZ-500: Implement platform protection)
+
+[Learning Path AZ-500: Secure your data and applications](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
+
+[Learning Path AZ-500: Manage security operation](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
+
+[Exam AZ-500](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
 
 
 ## AZ-500 Labs
@@ -16,7 +24,7 @@
 
 [AZ-500 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)
 
-[AZ-500 GitHub Repo](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
+[AZ-500 Repo on GitHub](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
 
 ---
 
