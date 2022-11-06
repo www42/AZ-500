@@ -26,6 +26,10 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [AZ-500 Repo on GitHub](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
 
+[Create a brand new Microsoft Account](https://outlook.com)
+
+[Redeem your Azure Pass Code](https://www.microsoftazurepass.com) Login with your brand new Microsoft Account
+
 ---
 
 [Give Feedback! (Metrics That Matter)](#az-500-microsoft-azure-security-technologies)
@@ -34,12 +38,6 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 ---
 
-
-## How to
-
-[Create a new Tenant in Azure AD](https://github.com/www42/aztraining/blob/master/New-Tenant/Create-Tenant.md) 
-
-[Redeem my Azure Pass code](https://github.com/www42/aztraining/blob/master/New-Tenant/Redeem-Azure-Pass.md)
 
 
 ## Useful links
