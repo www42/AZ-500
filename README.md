@@ -82,17 +82,6 @@
 
 [My certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email](mailto:thomas.jaekel@brainymotion.de?subject=AZ-900)
-
-[GitHub](https://github.com/www42)
-
-[linkedIn](https://linkedin.com/in/tjkkll)
-
-[Twitter](https://twitter.com/tjkkll)
-
-[Blog](https://blog.az.training)
-
-
 ---
 
 [Top](#az-500-microsoft-azure-security-technologies)
