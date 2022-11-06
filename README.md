@@ -3,13 +3,13 @@
 
 ## AZ-500 at Microsoft Learn
 
-[Learning Path AZ-500: Manage Identity and Access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)
+Learning Path [AZ-500: Manage Identity and Access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)
 
-[Learning Path AZ-500: Implement platform protection](AZ-500: Implement platform protection)
+Learning Path [AZ-500: Implement platform protection](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
 
-[Learning Path AZ-500: Secure your data and applications](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
+Learning Path [AZ-500: Secure your data and applications](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
 
-[Learning Path AZ-500: Manage security operation](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
+Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
 
 [Exam AZ-500](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
 
