@@ -1,5 +1,7 @@
 # AZ-500 Microsoft Azure Security Technologies
 
+[Get the presentation!](pdf/)
+
 
 ## AZ-500 at Microsoft Learn
 
