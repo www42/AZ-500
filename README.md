@@ -13,13 +13,7 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [Exam AZ-500](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
 
----
 
-[Give Feedback! (Metrics That Matter)](https://www.metricsthatmatter.com/url/u.aspx?9AD15196F190693914)
-
-[Claim your Badge! (Microsoft Learn)](https://learn.microsoft.com/users/me/achievements?redeem=28RM9Y&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
----
 
 ## AZ-500 Labs
 
@@ -33,9 +27,6 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [AZ-500 Repo on GitHub](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
 
-[Create a brand new Microsoft Account](https://outlook.com)
-
-[Redeem your Azure Pass Code](https://www.microsoftazurepass.com) Login with your brand new Microsoft Account
 
 
 
@@ -47,8 +38,6 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 [Microsoft Learn FAQ](https://learn.microsoft.com/en-us/training/support/faq?pivots=general)
 
 [Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
-
-[Wer ist eigentlich Paul?](https://www.youtube.com/watch?v=FNZyCK1HwXM)
 
 [Scott Hanselman](https://www.hanselman.com/)
 
