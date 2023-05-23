@@ -31,9 +31,15 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 
 
+## Dienstag
+
+[What is Azure Active Directory Domain Services?](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/overview)
+
+
 
 
 ## Useful links
+
 
 [Microsoft Exam Simulation](https://aka.ms/examdemo)
 
