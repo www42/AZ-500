@@ -2,6 +2,10 @@
 
 [Get the presentation!](pdf/)
 
+[Give Feedback! (Metrics that Matter)](https://www.metricsthatmatter.com/url/u.aspx?41343F5D7197760390)
+
+[Claim your Badge!](https://learn.microsoft.com/users/me/achievements?redeem=K473V4&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
+
 
 ## AZ-500 at Microsoft Learn
 
