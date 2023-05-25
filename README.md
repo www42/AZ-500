@@ -35,6 +35,10 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [What is Azure Active Directory Domain Services?](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/overview)
 
+[Create a shareable link for Bastion](https://learn.microsoft.com/en-us/azure/bastion/shareable-link)
+
+[Eulen nach Athen tragen](https://de.wikipedia.org/wiki/Eulen_nach_Athen_tragen)
+
 
 
 
