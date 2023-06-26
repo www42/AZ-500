@@ -26,6 +26,10 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 2. Register with Training Key
 
 
+
+Tobias Steiner 8D7E553E75094A3A
+
+
 [AZ-500 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)
 
 [AZ-500 Repo on GitHub](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
