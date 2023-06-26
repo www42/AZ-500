@@ -1,10 +1,5 @@
 # AZ-500 Microsoft Azure Security Technologies
 
-[Get the presentation!](pdf/)
-
-[Give Feedback! (Metrics that Matter)](https://www.metricsthatmatter.com/url/u.aspx?41343F5D7197760390)
-
-[Claim your Badge!](https://learn.microsoft.com/users/me/achievements?redeem=K473V4&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 
 ## AZ-500 at Microsoft Learn
@@ -16,6 +11,8 @@ Learning Path [AZ-500: Implement platform protection](https://learn.microsoft.co
 Learning Path [AZ-500: Secure your data and applications](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
 
 Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
+
+---
 
 [Exam AZ-500](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
 
@@ -33,15 +30,6 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [AZ-500 Repo on GitHub](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
 
-
-
-## Dienstag
-
-[What is Azure Active Directory Domain Services?](https://learn.microsoft.com/en-us/azure/active-directory-domain-services/overview)
-
-[Create a shareable link for Bastion](https://learn.microsoft.com/en-us/azure/bastion/shareable-link)
-
-[Eulen nach Athen tragen](https://de.wikipedia.org/wiki/Eulen_nach_Athen_tragen)
 
 
 
