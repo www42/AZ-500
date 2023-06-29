@@ -32,9 +32,6 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 2. Register with Training Key
 
 
-
-
-
 [AZ-500 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)
 
 [AZ-500 Repo on GitHub](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
@@ -44,6 +41,13 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 
 ## Useful links
+
+[Azure AD native Kerberos support](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable)
+
+[Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
+
+[Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
+
 
 
 [Microsoft Exam Simulation](https://aka.ms/examdemo)
