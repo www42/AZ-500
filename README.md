@@ -44,6 +44,8 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [Azure AD native Kerberos support](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable)
 
+[Ludwig Boltzmann](https://de.wikipedia.org/wiki/Ludwig_Boltzmann)
+
 [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
 
 [Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
