@@ -1,7 +1,9 @@
 # AZ-500 Microsoft Azure Security Technologies
 
 
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?36D775908198988540)
 
+[Claim your badge](https://learn.microsoft.com/users/me/achievements?redeem=526J5N&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
 
 [Get the presentation](pdf/)
 
