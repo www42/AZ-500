@@ -1,14 +1,6 @@
 # AZ-500 Microsoft Azure Security Technologies
 
 
-[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?36D775908198988540)
-
-[Claim your badge](https://learn.microsoft.com/users/me/achievements?redeem=526J5N&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189688)
-
-[Get the presentation](pdf/)
-
----
-
 
 ## AZ-500 at Microsoft Learn
 
@@ -23,6 +15,8 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 ---
 
 [Exam AZ-500](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
+
+[New! Open book exams at Microsoft](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/introducing-a-new-resource-for-all-role-based-microsoft/ba-p/3500870)
 
 
 
