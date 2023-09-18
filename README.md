@@ -38,6 +38,8 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 ## Useful links
 
+[User Access Admin](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles#differences-between-azure-roles-and-azure-ad-roles)
+
 [Azure AD native Kerberos support](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable)
 
 [Ludwig Boltzmann](https://de.wikipedia.org/wiki/Ludwig_Boltzmann)
