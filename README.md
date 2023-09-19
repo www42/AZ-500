@@ -2,6 +2,10 @@
 
 
 
+[Get the presentation](pdf)
+
+
+
 ## AZ-500 at Microsoft Learn
 
 Learning Path [AZ-500: Manage Identity and Access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)
