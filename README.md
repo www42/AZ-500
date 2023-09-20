@@ -64,7 +64,7 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [Scott Hanselman](https://www.hanselman.com/)
 
-[Microsoft Training and Certification](https://aka.ms/traincertposter)
+[Microsoft Training and Certification Poster](https://aka.ms/traincertposter)
 
 [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
