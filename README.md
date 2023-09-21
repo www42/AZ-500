@@ -1,8 +1,10 @@
 # AZ-500 Microsoft Azure Security Technologies
 
+[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?FD42549E7202075020)
 
+[Claim your badge!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=YD8P9K)
 
-[Get the presentation](pdf)
+[Get the presentation!](pdf)
 
 
 
