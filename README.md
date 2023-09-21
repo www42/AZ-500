@@ -42,6 +42,8 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 ## Useful links
 
+[Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
+
 [Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
 
 [User Access Admin](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles#differences-between-azure-roles-and-azure-ad-roles)
