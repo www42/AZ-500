@@ -8,15 +8,26 @@
 
 ## Agenda
 
-[Learning Path 1: Manage identity and access][LP1]
+Learning Path 1: [Manage identity and access][LP1]
 
-[Learning Path 2: Secure networking][LP2]
+Learning Path 2: [Secure networking][LP2]
 
-[Learning Path 3: Secure compute, storage, and databases][LP3]
+Learning Path 3: [Secure compute, storage, and databases][LP3]
 
-[Learning Path 4: Manage security operations][LP4]
+Learning Path 4: [Manage security operations][LP4]
+
+<br>
 
 
+## Lab environment Skillable
+
+Do you have a Skillable account? ➡️ Sign in and [redeem your training key](https://brainymotion.learnondemand.net/TrainingKey/Redeem).
+
+No account yet? ➡️ [Register with Training Key](https://brainymotion.learnondemand.net).
+
+[AZ-500 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)
+
+<br>
 
 
 ## Microsoft Learn
@@ -25,42 +36,28 @@
 
 [Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
 
+<br>
+
 
 ## AZ-500 Exam
 
-## New: Microsoft Applied Skills
-
-
-## AZ-500 at Microsoft Learn
-
-Learning Path [AZ-500: Manage Identity and Access](https://learn.microsoft.com/en-us/training/paths/manage-identity-access/)
-
-Learning Path [AZ-500: Implement platform protection](https://learn.microsoft.com/en-us/training/paths/implement-platform-protection/)
-
-Learning Path [AZ-500: Secure your data and applications](https://learn.microsoft.com/en-us/training/paths/secure-your-data-applications/)
-
-Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en-us/training/paths/manage-security-operation/)
-
----
 
 [Exam AZ-500](https://docs.microsoft.com/en-us/learn/certifications/exams/az-500)
 
 [New! Open book exams at Microsoft](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/introducing-a-new-resource-for-all-role-based-microsoft/ba-p/3500870)
 
+<br>
 
 
-## AZ-500 Labs
-
-[Lab environment Skillable](https://brainymotion.learnondemand.net) 
-
-1. Sign in with your Skillable account 
-2. Register with Training Key
+## New: Microsoft Applied Skills
 
 
-[AZ-500 Lab instructions on GitHub](https://microsoftlearning.github.io/AZ500-AzureSecurityTechnologies/)
+[Microsoft Applied Skills Anouncement](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-microsoft-applied-skills-the-new-credentials-to/ba-p/3775645)
 
-[AZ-500 Repo on GitHub](https://github.com/MicrosoftLearning/AZ500-AzureSecurityTechnologies)
+[Browse all Applied Sills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
+
+<br>
 
 
 
@@ -83,17 +80,11 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 
 
-[Microsoft Exam Simulation](https://aka.ms/examdemo)
-
-[Microsoft Learn FAQ](https://learn.microsoft.com/en-us/training/support/faq?pivots=general)
 
 [Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
 
 [Scott Hanselman](https://www.hanselman.com/)
 
-[Microsoft Training and Certification Poster](https://aka.ms/traincertposter)
-
-[Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 
 [Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
 
@@ -105,6 +96,8 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
+
+<br>
 
 ##  Your Trainer
 #### Thomas Jäkel
@@ -125,7 +118,6 @@ Learning Path [AZ-500: Manage security operation](https://learn.microsoft.com/en
 
 [My Blog](https://blog.az.training)
 
-[My certifications](https://www.credly.com/users/thomas-jakel)
 
 ---
 
