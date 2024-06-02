@@ -1,7 +1,34 @@
 # AZ-500 Microsoft Azure Security Technologies
 
-[Get the presentation!](pdf)
+[LP1]: https://learn.microsoft.com/en-us/training/paths/manage-identity-access-new/
+[LP2]: https://learn.microsoft.com/en-us/training/paths/secure-networking/
+[LP3]: https://learn.microsoft.com/en-us/training/paths/secure-compute-storage-databases/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/manage-security-operations-new/
 
+
+## Agenda
+
+[Learning Path 1: Manage identity and access][LP1]
+
+[Learning Path 2: Secure networking][LP2]
+
+[Learning Path 3: Secure compute, storage, and databases][LP3]
+
+[Learning Path 4: Manage security operations][LP4]
+
+
+
+
+## Microsoft Learn
+
+[Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
+
+[Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
+
+
+## AZ-500 Exam
+
+## New: Microsoft Applied Skills
 
 
 ## AZ-500 at Microsoft Learn
