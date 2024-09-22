@@ -1,10 +1,5 @@
 # AZ-500 Microsoft Azure Security Technologies
 
-[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?12B6E2853210961232)
-
-[Claim your badges!](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=QM9QY8)
-
----
 
 [LP1]: https://learn.microsoft.com/en-us/training/paths/manage-identity-access-new/
 [LP2]: https://learn.microsoft.com/en-us/training/paths/secure-networking/
@@ -40,7 +35,7 @@ No account yet? ➡️ [Register with Training Key](https://brainymotion.learnon
 
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
-[Become Microsoft Certified aka Train Cert Poster](https://aka.ms/traincertposter)
+[Train Cert Poster](https://aka.ms/traincertposter)
 
 <br>
 
@@ -60,11 +55,18 @@ No account yet? ➡️ [Register with Training Key](https://brainymotion.learnon
 
 [Microsoft Applied Skills Anouncement](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/announcing-microsoft-applied-skills-the-new-credentials-to/ba-p/3775645)
 
-[Browse all Applied Sills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
+[Secure Azure services and workloads with Microsoft Defender for Cloud regulatory compliance controls - Applied Skills ](https://learn.microsoft.com/en-us/credentials/applied-skills/secure-azure-services-and-workloads-with-microsoft-defender-for-cloud-regulatory-compliance-controls/)
 
+[Configure SIEM security operations using Microsoft Sentinel - Applied Skills ](https://learn.microsoft.com/en-us/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/)
+
+[Browse all Applied Sills](https://learn.microsoft.com/en-us/credentials/browse/?credential_types=applied%20skills)
 
 <br>
 
+
+## Microsoft Ignite 2024
+
+[Microsoft Ignite November 19 - 21 2024](https://ignite.microsoft.com/en-US/home)
 
 
 
