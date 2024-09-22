@@ -68,6 +68,7 @@ No account yet? ➡️ [Register with Training Key](https://brainymotion.learnon
 
 [Microsoft Ignite November 19 - 21 2024](https://ignite.microsoft.com/en-US/home)
 
+<br>
 
 
 ## Useful links
@@ -80,19 +81,18 @@ No account yet? ➡️ [Register with Training Key](https://brainymotion.learnon
 
 [Azure AD native Kerberos support](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable)
 
-[Ludwig Boltzmann](https://de.wikipedia.org/wiki/Ludwig_Boltzmann)
-
-[Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
-
 [Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 
+[Microsoft Entra Connect: Pass-through Authentication - How it works](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-pta-how-it-works)
 
 
+[Ludwig Boltzmann](https://de.wikipedia.org/wiki/Ludwig_Boltzmann)
 
 [Nobel Prize in Physics 2022 (YouTube, Harald Lesch)](https://www.youtube.com/watch?v=-F8VFBrq1uU)
 
-[Scott Hanselman](https://www.hanselman.com/)
+[John Savill's Technical Training - YouTube](https://www.youtube.com/@NTFAQGuy)
 
+[Scott Hanselman](https://www.hanselman.com/)
 
 [Azure Friday](https://docs.microsoft.com/en-us/shows/azure-friday/)
 
