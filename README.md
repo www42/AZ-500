@@ -1,5 +1,10 @@
 # AZ-500 Microsoft Azure Security Technologies
 
+[Give feedback](https://www.metricsthatmatter.com/url/u.aspx?65BA0885F214376893)
+
+[Grab your badge](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=Z27R3R)
+
+---
 
 [LP1]: https://learn.microsoft.com/en-us/training/paths/manage-identity-access-new/
 [LP2]: https://learn.microsoft.com/en-us/training/paths/secure-networking/
