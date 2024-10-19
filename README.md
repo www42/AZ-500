@@ -109,7 +109,7 @@
 
 [My Non Microsoft certifications](https://www.credly.com/users/thomas-jakel)
 
-[Email me](mailto:thomas.jaekel@brainymotion.de?subject=AZ-500)
+[Email me](mailto:thomas.jaekel@brainymotion.de)
 
 [Check out my GitHub repos](https://github.com/www42)
 
