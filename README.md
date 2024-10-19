@@ -18,6 +18,7 @@
 
 
 ## Labs
+
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
@@ -74,6 +75,8 @@
 [Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 
 [Microsoft Entra Connect: Pass-through Authentication - How it works](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-connect-pta-how-it-works)
+
+[Microsoft Graph permissions reference](https://learn.microsoft.com/en-us/graph/permissions-reference)
 
 [John Savill's Technical Training - YouTube](https://www.youtube.com/@NTFAQGuy)
 
