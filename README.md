@@ -53,8 +53,7 @@
 
 <br>
 
-
-## Useful links
+## Microsoft Learn
 
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
@@ -62,13 +61,25 @@
 
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
-[Microsoft Ignite November 19 - 21 2024](https://ignite.microsoft.com/en-US/home)
+[Microsoft Ignite November 19 - 21, 2024](https://ignite.microsoft.com/en-US/home)
+
+<br>
+
+
+
+## Useful links
+
+[Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
 [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
 
 [Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
 
-[User Access Admin](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles#differences-between-azure-roles-and-azure-ad-roles)
+[Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
+
+[Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/?source=recommendations)
+
+[User Access Administrator](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles#differences-between-azure-roles-and-azure-ad-roles)
 
 [Azure AD native Kerberos support](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable)
 
@@ -87,8 +98,6 @@
 [Azure Blog](https://azure.microsoft.com/en-us/blog/)
 
 [Azure on YouTube](https://www.youtube.com/c/MicrosoftAzure)
-
-[Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
