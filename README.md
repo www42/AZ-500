@@ -69,6 +69,8 @@
 
 ## Useful links
 
+[Azure Services with managed identities support](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/managed-identities-status)
+
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
 [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
