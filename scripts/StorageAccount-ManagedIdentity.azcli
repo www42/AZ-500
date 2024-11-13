@@ -1,0 +1,24 @@
+# Storage account
+$saName = "cloudshell69118"
+$rgName = "rg-storage"
+
+# Show managed identity of staorage account
+az storage account show --name $saName --resource-group $rgName --query "identity"
+
+# Set managed identity of staorage account to 'SystemAssigned'
+az storage account update --name $saName --resource-group $rgName --assign-identity --query "identity"
+
+# Remove managed identity of staorage account (set to 'None')
+az storage account update --name $saName --resource-group $rgName --identity-type None --query "identity"
+
+# Get object id (aka principal id) of the managed identity
+$principalId = az storage account show --name $saName --resource-group $rgName --query "identity.principalId" --output tsv
+
+# Find the managed identity in Entra ID
+$managedIdentity = az ad sp show --id $principalId | ConvertFrom-Json
+
+# A managed identity has an app id
+$managedIdentity.appId
+
+# ...but no app registration in Entra ID
+az ad app show --id $managedIdentity.appId
