@@ -11,7 +11,7 @@
 
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?06F60A77A216091703)
 
-[Grab your bedges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X9K84V)
+[Grab your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X9K84V)
 
 [Get the presentation](pdf/)
 
