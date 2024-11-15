@@ -7,6 +7,16 @@
 
 <br>
 
+## Seminar 12 - 15. November
+
+[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?06F60A77A216091703)
+
+[Grab your bedges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X9K84V)
+
+[Get the presentation](pdf/)
+
+<br>
+
 ## Learning Paths
 
 - Learning Path 1: [Manage identity and access][LP1]
