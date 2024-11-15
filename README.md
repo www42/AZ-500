@@ -75,6 +75,10 @@
 
 [Azure Services with managed identities support](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/managed-identities-status)
 
+[Azure AD native Kerberos support](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable)
+
+---
+
 [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 
 [Azure Monitor documentation](https://learn.microsoft.com/en-us/azure/azure-monitor/)
@@ -85,9 +89,9 @@
 
 [Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/?source=recommendations)
 
-[User Access Administrator](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles#differences-between-azure-roles-and-azure-ad-roles)
+[Microsoft Sentinel documentation ](https://learn.microsoft.com/en-us/azure/sentinel/)
 
-[Azure AD native Kerberos support](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable)
+[User Access Administrator](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles#differences-between-azure-roles-and-azure-ad-roles)
 
 [Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
 
