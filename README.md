@@ -95,11 +95,15 @@
 
 [Azure Firewall documentation](https://learn.microsoft.com/en-us/azure/firewall/)
 
+[Azure DDoS Protection documentation](https://learn.microsoft.com/en-us/azure/ddos-protection/)
+
 [Microsoft Defender for Cloud documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/)
 
 [Microsoft Defender XDR documentation](https://learn.microsoft.com/en-us/defender-xdr/?source=recommendations)
 
 [Microsoft Sentinel documentation ](https://learn.microsoft.com/en-us/azure/sentinel/)
+
+[Azure Storage Documentation Hub](https://learn.microsoft.com/en-us/azure/storage/)
 
 [User Access Administrator](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles#differences-between-azure-roles-and-azure-ad-roles)
 
