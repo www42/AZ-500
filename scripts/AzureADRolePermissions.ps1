@@ -51,6 +51,7 @@ Get-AzureADMSRoleDefinition | Sort-Object DisplayName | Format-Table DisplayName
 # $RoleDisplayName = 'Billing Administrator'
 $roleDisplayName = 'Application Administrator'
 $roleDisplayName = 'Global Administrator'
+$roleDisplayName = 'User Administrator'
 
 $role = Get-AzureADMSRoleDefinition -Filter "displayName eq '$($RoleDisplayName)'"
 $role.RolePermissions.AllowedResourceActions
