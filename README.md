@@ -8,11 +8,11 @@
 <br>
 
 <!--
-## Seminar 12 - 15. November
+## Seminar 8. - 11. September
 
-[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?06F60A77A216091703)
+[Give feedback!]()
 
-[Grab your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=X9K84V)
+[Grab your badges]()
 
 [Get the presentation](pdf/)
 
