@@ -7,6 +7,7 @@
 
 <br>
 
+<!--
 ## Seminar 12 - 15. November
 
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?06F60A77A216091703)
@@ -16,6 +17,7 @@
 [Get the presentation](pdf/)
 
 <br>
+-->
 
 ## Learning Paths
 
