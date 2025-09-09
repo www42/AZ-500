@@ -7,14 +7,15 @@
 
 <br>
 
-<!--
 ## Seminar 8. - 11. September
+
+[Get the presentation](pdf/)
+
+<!--
 
 [Give feedback!]()
 
 [Grab your badges]()
-
-[Get the presentation](pdf/)
 
 <br>
 -->
