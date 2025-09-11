@@ -11,13 +11,12 @@
 
 [Get the presentation](pdf/)
 
-<!--
+[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?3ADA2260D226160098)
 
-[Give feedback!]()
-
-[Grab your badges]()
+[Grab your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=DK8Y3Q)
 
 <br>
+<!--
 -->
 
 ## Learning Paths
