@@ -7,7 +7,7 @@
 
 <br>
 
-<!-->
+<!--
 ## Seminar 3. - 6. November 2025
 
 [Get the presentation](pdf/)
