@@ -3,7 +3,7 @@
 [LP3]: https://learn.microsoft.com/en-us/training/paths/secure-compute-storage-databases/
 [LP4]: https://learn.microsoft.com/en-us/training/paths/manage-security-operations-new/
 
-# AZ-500 Microsoft Azure Security Technologies
+# AZ-500 Secure cloud resources with Microsoft security technologies
 
 <br>
 
