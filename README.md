@@ -7,7 +7,8 @@
 
 <br>
 
-## Seminar 8. - 11. September
+<!-->
+## Seminar 3. - 6. November 2025
 
 [Get the presentation](pdf/)
 
@@ -16,15 +17,14 @@
 [Grab your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=DK8Y3Q)
 
 <br>
-<!--
 -->
 
 ## Learning Paths
 
-- Learning Path 1: [Manage identity and access][LP1]
+- Learning Path 1: [Secure identity and access][LP1]
 - Learning Path 2: [Secure networking][LP2]
 - Learning Path 3: [Secure compute, storage, and databases][LP3]
-- Learning Path 4: [Manage security operations][LP4]
+- Learning Path 4: [Secure Azure using Microsoft Defender for Cloud and Microsoft Sentinel][LP4]
 
 <br>
 
@@ -73,7 +73,7 @@
 
 [Browse all courses, learning paths, and modules](https://learn.microsoft.com/en-us/training/browse/)
 
-[Microsoft Ignite November 19 - 21, 2024](https://ignite.microsoft.com/en-US/home)
+[Microsoft Ignite November 18 - 21, 2025](https://ignite.microsoft.com/en-US/home)
 
 <br>
 
