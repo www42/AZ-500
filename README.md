@@ -7,10 +7,11 @@
 
 <br>
 
-<!--
-## Seminar 3. - 6. November 2025
+## Seminar 9. - 12. Februar 2026
 
 [Get the presentation](pdf/)
+
+<!--
 
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?3ADA2260D226160098)
 
