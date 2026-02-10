@@ -11,10 +11,10 @@
 
 [Get the presentation](pdf/)
 
+[Grab your badges](https://learn.microsoft.com/de-de/users/me/achievements?redeem=DLZ3JD&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189687)
+
 <!--
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?3ADA2260D226160098)
-
-[Grab your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=DK8Y3Q)
 -->
 
 <br>
