@@ -12,13 +12,12 @@
 [Get the presentation](pdf/)
 
 <!--
-
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?3ADA2260D226160098)
 
 [Grab your badges](https://api.brainymotion.de/msbadge/redeem?pid=229509&cd=DK8Y3Q)
+-->
 
 <br>
--->
 
 ## Learning Paths
 
@@ -89,6 +88,13 @@
 [How we built "Ask Learn", the RAG-based knowledge service](https://devblogs.microsoft.com/engineering-at-microsoft/how-we-built-ask-learn-the-rag-based-knowledge-service/)
 
 [Microsoft Ignite November 18 - 21, 2025](https://ignite.microsoft.com/en-US/home)
+
+
+<br>
+
+## Monday
+
+[Announcing GA of Bicep templates support for Microsoft Entra ID resources](https://techcommunity.microsoft.com/blog/azuregovernanceandmanagementblog/announcing-ga-of-bicep-templates-support-for-microsoft-entra-id-resources/4437163)
 
 
 <br>
