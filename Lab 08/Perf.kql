@@ -1,0 +1,5 @@
+Perf
+| where CounterName == "% Processor Time"
+| where ObjectName == "Processor Information"
+| summarize avg(CounterValue) by bin(TimeGenerated, 1min), Computer, _ResourceId 
+| render timechart
