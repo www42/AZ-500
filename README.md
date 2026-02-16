@@ -7,17 +7,17 @@
 
 <br>
 
-## Seminar 9. - 12. Februar 2026
+<!--
+## Seminar 16. - 19. Februar 2026
 
 [Get the presentation](pdf/)
 
-[Grab your badges](https://learn.microsoft.com/de-de/users/me/achievements?redeem=DLZ3JD&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189687)
+[Grab your badges]()
 
-[Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?E04B0623C232613269)
-<!--
--->
+[Give feedback!]()
 
 <br>
+-->
 
 ## Learning Paths
 
@@ -92,12 +92,6 @@
 
 <br>
 
-## Monday
-
-[Announcing GA of Bicep templates support for Microsoft Entra ID resources](https://techcommunity.microsoft.com/blog/azuregovernanceandmanagementblog/announcing-ga-of-bicep-templates-support-for-microsoft-entra-id-resources/4437163)
-
-
-<br>
 
 ## Microsoft Documentation Landing Pages
 
