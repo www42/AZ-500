@@ -138,6 +138,8 @@
 
 ## Useful links
 
+[Choose an Azure Compute Service](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree)
+
 [Authorize requests to Azure Storage (REST API)](https://learn.microsoft.com/en-us/rest/api/storageservices/authorize-requests-to-azure-storage)
 
 [Details of the policy definition structure policy rules](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-policy-rule)
