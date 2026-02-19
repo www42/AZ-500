@@ -13,10 +13,10 @@
 
 <!--
 [Grab your badges]()
+-->
 
 [Give feedback!](https:/www.metricsthatmatter.com/url/u.aspx?04EC42CEE232734479)
 
--->
 <br>
 
 ## Learning Paths
