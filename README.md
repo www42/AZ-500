@@ -175,6 +175,8 @@
 
 [Repository for Azure Resource Policy built-in definitions and samples](https://github.com/Azure/azure-policy)
 
+[Azure-Sentinel/Playbooks](https://github.com/Azure/Azure-Sentinel/tree/master/Playbooks)
+
 <br>
 
 ##  Your Trainer
