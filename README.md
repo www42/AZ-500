@@ -149,7 +149,6 @@
 
 [Azure AD native Kerberos support](https://learn.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-hybrid-identities-enable)
 
-
 [User Access Administrator](https://learn.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles#differences-between-azure-roles-and-azure-ad-roles)
 
 [Azure Monitor Agent Overview](https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview)
@@ -170,6 +169,16 @@
 
 [Cloud Adoption Framework for Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/)
 
+
+## Specials
+
+[Arctic Wolf](https://arcticwolf.com/)
+
+[Purple Knight](https://www.semperis.com/purple-knight/)
+
+[MITRE ATT&CK®](https://attack.mitre.org/)
+
+[Repository for Azure Resource Policy built-in definitions and samples](https://github.com/Azure/azure-policy)
 
 <br>
 
