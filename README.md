@@ -12,6 +12,7 @@
 [Get the presentation](pdf/)
 
 <!--
+
 [Grab your badges]()
 -->
 
