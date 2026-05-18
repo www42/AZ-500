@@ -29,13 +29,13 @@
 
 ## Labs 🛠️
 
-<!--
 [Lab environment Skillable](https://brainymotion.learnondemand.net) 
 
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
 <br>
+<!--
 -->
 
 
