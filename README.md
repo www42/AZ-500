@@ -59,6 +59,9 @@
 
 [Practice assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/practice/assessment?assessment-type=practice&assessmentId=57&practice-assessment-type=certification)
 
+<br>
+
+
 ### New: AZ-500  ➡️  SC-500
 
 [New Course SC-500: Implement end‑to‑end security controls for cloud and AI workloads](https://learn.microsoft.com/en-us/training/courses/sc-500t00)
