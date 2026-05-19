@@ -5,13 +5,17 @@
 
 # AZ-500 Secure cloud resources with Microsoft security technologies
 
-<!--
 <br>
 
 ## Seminar 18. - 21. Mai 2026
 
 [Get the presentation](pdf/)
 
+#### Montag 
+
+[Azure Services and resources with managed identities](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/managed-identities-status)
+
+<!--
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?04EC42CEE232734479)
 
 <br>
