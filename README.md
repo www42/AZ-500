@@ -15,6 +15,12 @@
 
 [Azure Services and resources with managed identities](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/managed-identities-status)
 
+
+#### Dienstag
+
+[Azure DDoS Protection Overview](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
+
+
 <!--
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?04EC42CEE232734479)
 
