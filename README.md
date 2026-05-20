@@ -12,7 +12,6 @@
 [Get the presentation](pdf/)
 
 #### Montag 
-
 [Azure Services and resources with managed identities](https://learn.microsoft.com/en-us/entra/identity/managed-identities-azure-resources/managed-identities-status)
 
 
