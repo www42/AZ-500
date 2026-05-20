@@ -16,20 +16,19 @@
 
 
 #### Dienstag
-
 [Azure DDoS Protection Overview](https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview)
 
 
 #### Mittwoch
-
 [Kubernetes Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
 
 
 <!--
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?04EC42CEE232734479)
+-->
 
 <br>
--->
+<br>
 
 ## Learning Paths 🚀
 
