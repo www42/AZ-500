@@ -101,6 +101,8 @@
 
 [Microsoft Build, June 2–3, 2026](https://build.microsoft.com/en-US/home)
 
+[AI Skills Fest, June 8-12, 2026](https://aka.ms/aiskillsfest)
+
 [Become Microsoft Certified](https://aka.ms/traincertposter) aka Train Cert Poster
 
 [Microsoft Learn](https://learn.microsoft.com)
