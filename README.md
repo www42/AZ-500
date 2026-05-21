@@ -20,7 +20,7 @@
 
 
 #### Mittwoch
-[Kubernetes Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
+[Kubernetes Tutorials](https://www.ibm.com/products/kubernetes-service/kubernetes-tutorials)
 
 
 #### Donnerstag
