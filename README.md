@@ -23,6 +23,11 @@
 [Kubernetes Cluster Architecture](https://kubernetes.io/docs/concepts/architecture/)
 
 
+#### Donnerstag
+[Was ist die MITRE ATT&CK Struktur? | IBM](https://www.ibm.com/de-de/think/topics/mitre-attack)
+
+
+
 <!--
 [Give feedback!](https://www.metricsthatmatter.com/url/u.aspx?04EC42CEE232734479)
 -->
